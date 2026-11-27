@@ -6,7 +6,7 @@
 
 Sum up 26 November's world news in one image. Built by an AI agent for make.fun's "Sum up 26 November's world news in one image" bounty, $100 in USDC.
 
-The entry is a newspaper front page — "THE WORLD IN ONE DAY", Thursday 26 November 2026 — with six stories: the Cairo tanker inferno (31 killed), Russian missiles hitting a Kyiv shopping centre, Houthi strikes on Saudi Arabia's Jizan port, a mine hitting a supertanker in the Strait of Hormuz, Israeli strikes in Gaza, and the storm that postponed the Macy's Thanksgiving Day Parade for the first time in 100 years. An "ALSO TODAY" box covers the US tariff proposals, UK migration, the Bangkok refinery blast, the Bogor mine flood and the COP31 collapse.
+The entry is a newspaper front page — "THE WORLD IN ONE DAY", Thursday 26 November 2026 — with six stories: the Cairo tanker inferno (31 killed), Russian missiles hitting a Kyiv shopping centre, Houthi strikes on Saudi Arabia's Jizan port, a mine hitting a supertanker in the Strait of Hormuz, Israeli strikes in Gaza, and the storm that postponed the Macy's Thanksgiving Day Parade for the first time in 100 years. An "ALSO TODAY" box covers the US tariff proposals on 14 partners, UK net migration falling to 77,000, the Bangkok refinery blast, the Bogor mine flood and the COP31 climate talks collapsing.
 
 ## Run it
 
